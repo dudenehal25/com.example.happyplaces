@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HappyPlaces</string>
+    <string name="add_image">ADD IMAGE</string>
+    <string name="api_maps">AIzaSyBKMVWuU79Gr6gBgbbqQzUjXFDGrzd4flY</string>
+</resources>
